@@ -51,8 +51,11 @@ Andorid Code:
 =============
 
 Clone the repo and change the IP Address of LocalHost in Constants.java
+
 Connect mobile and PC on the same wifi
+
 Run the App
+
 
 
 
