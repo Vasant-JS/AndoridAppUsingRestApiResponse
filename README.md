@@ -10,10 +10,6 @@ For more information please see [the website][1].
 
 
 PHP API:
-========
-First create a table
-
-License
 =======
 
   First create a table
@@ -50,6 +46,13 @@ Insert few items in the table
     (48, 'Bristol Shoes', 'Awesome shoes.', 999, 5, '2016-01-08 06:36:37', '2016-01-08 07:06:37'),
     (60, 'Rolex Watch', 'Luxury watch.', 25000, 1, '2016-01-11 15:46:02', '2016-01-11 16:16:02');
 
+
+Andorid Code:
+=============
+
+Clone the repo and change the IP Address of LocalHost in Constants.java
+Connect mobile and PC on the same wifi
+Run the App
 
 
 
