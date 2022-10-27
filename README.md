@@ -1,8 +1,16 @@
 # AndoridAppUsingRestApiResponse
 Android App with Recycler view showing CRUD operations on the list of items from REST API Endpoint Using Retrofit
 
-PHP API:
+Retrofit
+========
 
+A type-safe HTTP client for Android and Java.
+
+For more information please see [the website][1].
+
+
+PHP API:
+========
 First create a table
 
 CREATE TABLE `items` (
@@ -15,3 +23,6 @@ CREATE TABLE `items` (
   `modified` timestamp NOT NULL DEFAULT current_timestamp(),
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=01 DEFAULT CHARSET=utf8
+
+
+ [1]: https://square.github.io/retrofit/
