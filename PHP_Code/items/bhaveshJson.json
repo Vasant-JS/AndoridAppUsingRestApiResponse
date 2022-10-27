@@ -1,0 +1,200 @@
+{
+    "status": 200,
+    "message": "Data Fetched",
+    "data": [{
+            "id": "69",
+            "title": "Business",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1663050527.png"
+        },
+        {
+            "id": "68",
+            "title": "Freelancer",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1663050362.png"
+        },
+        {
+            "id": "67",
+            "title": "Doctor",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1662788383.png"
+        },
+        {
+            "id": "66",
+            "title": "Advertisement",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661854540.png"
+        },
+        {
+            "id": "65",
+            "title": "Style",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661764059.png"
+        },
+        {
+            "id": "64",
+            "title": "Wear",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661764015.png"
+        },
+        {
+            "id": "63",
+            "title": "Sports",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661428302.png"
+        },
+        {
+            "id": "62",
+            "title": "Business",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661428251.png"
+        },
+        {
+            "id": "61",
+            "title": "Home Decor",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661340417.png"
+        },
+        {
+            "id": "60",
+            "title": "Fashion",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661340369.png"
+        },
+        {
+            "id": "59",
+            "title": "Bussiness",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661240759.png"
+        },
+        {
+            "id": "58",
+            "title": "Style",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1661240635.png"
+        },
+        {
+            "id": "57",
+            "title": "Poonam\t",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1660193991.png"
+        },
+        {
+            "id": "55",
+            "title": "Doctor",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1657091906.png"
+        },
+        {
+            "id": "54",
+            "title": "Design Your Own",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1656758822.png"
+        },
+        {
+            "id": "53",
+            "title": "Shopping",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1656575689.png"
+        },
+        {
+            "id": "52",
+            "title": "Beauty ",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1655980153.png"
+        },
+        {
+            "id": "51",
+            "title": "Friendly Doctor",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1655466102.png"
+        },
+        {
+            "id": "50",
+            "title": "Village Culture",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1654499415.png"
+        },
+        {
+            "id": "49",
+            "title": "Shopping",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1654242405.png"
+        },
+        {
+            "id": "48",
+            "title": "Always",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1653550365.png"
+        },
+        {
+            "id": "47",
+            "title": "look",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1653549483.png"
+        },
+        {
+            "id": "45",
+            "title": "The best of me",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1653125107.png"
+        },
+        {
+            "id": "44",
+            "title": "Let's Go",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1652692947.gif"
+        },
+        {
+            "id": "43",
+            "title": "Village Culture",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1651046037.png"
+        },
+        {
+            "id": "42",
+            "title": "Foot Wear",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650881398.gif"
+        },
+        {
+            "id": "41",
+            "title": "Shopping Online",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650449273.png"
+        },
+        {
+            "id": "40",
+            "title": "Sunglass Watch",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650350517.gif"
+        },
+        {
+            "id": "39",
+            "title": "Hair Care",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650350401.gif"
+        },
+        {
+            "id": "38",
+            "title": "Wear Western Day",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650279713.gif"
+        },
+        {
+            "id": "36",
+            "title": "Skincare",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650279560.gif"
+        },
+        {
+            "id": "35",
+            "title": "shopping",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1650105968.png"
+        },
+        {
+            "id": "33",
+            "title": "Eye makup",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1649932387.gif"
+        },
+        {
+            "id": "29",
+            "title": "Compact powder",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1649931598.gif"
+        },
+        {
+            "id": "28",
+            "title": "LipStick",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1649847256.png"
+        },
+        {
+            "id": "27",
+            "title": "Order Online",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1649847103.png"
+        },
+        {
+            "id": "25",
+            "title": "A  to Z Baby Care",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1649488113.png"
+        },
+        {
+            "id": "21",
+            "title": "",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1646486756.png"
+        },
+        {
+            "id": "20",
+            "title": "",
+            "image": "https:\/\/mehfooz.in\/assets\/uploads\/advertisement_image\/1646485973.png"
+        }
+    ]
+}
